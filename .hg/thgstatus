@@ -1,0 +1,8 @@
+m.vs/QueueService/v15/Server/sqlite3
+mQueueService
+mQueueService/Service
+mQueueService/User
+mQueueService/bin/Debug
+mQueueService/obj/Debug
+mTests/bin/Debug
+mTests/obj/Debug
